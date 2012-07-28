@@ -16,7 +16,7 @@ API
 * Similar to GroupBy but elements are grouped by adjacency as well as the
   key selector delegate. The operation is more efficient than GroupBy and
   only visits each element once, without needing to hash or sort the elements.
-* Each batch is returned as a type that inherits from list, to allow more
+* Each batch is returned as a type that inherits from List of T, to allow more
   efficient counts and lookups than a plain enumerable would provide.
    
 ### Interleave ###
