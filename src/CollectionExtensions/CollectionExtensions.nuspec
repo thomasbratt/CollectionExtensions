@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>CollectionExtensions</id>
+    <version>1.0.0</version>
+    <authors>Thomas Bratt</authors>
+    <owners>Thomas Bratt</owners>
+    <licenseUrl>https://github.com/thomasbratt/CollectionExtensions/blob/master/Mitlicense.txt</licenseUrl>
+    <projectUrl>https://github.com/thomasbratt/CollectionExtensions</projectUrl>
+    <iconUrl>https://github.com/thomasbratt/CollectionExtensions/blob/master/PackageIcon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .NET library for reordering collections (shuffle, interleave, swap elements, etc).</description>
+    <releaseNotes>First version.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>Collection Randomize Random Shuffle Knuth-Fisher-Yates Swap Linear-Feedback-Shift-Register Sequence Interleave Combine</tags>
+    <!--
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+    -->
+  </metadata>
+</package>

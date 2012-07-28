@@ -1,0 +1,15 @@
+
+*.suo
+/src/bin
+/src/obj
+
+/src/CollectionExtensions/obj
+/src/CollectionExtensions/bin
+/src/CollectionExtensions.UnitTests/obj
+/src/CollectionExtensions.UnitTests/bin
+/src/packages/NUnit.2.6.0.12054
+/src/CollectionExtensions.UnitTests/CollectionExtensions.UnitTests.ncrunchproject
+/src/CollectionExtensions.ncrunchsolution
+/src/CollectionExtensions.ncrunchsolution.user
+/src/CollectionExtensions/CollectionExtensions.ncrunchproject
+/src/_NCrunch_CollectionExtensions/CollectionExtensions.crunchsolution.cache
