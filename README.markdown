@@ -59,7 +59,3 @@ Source Code Repository
 ----------------------
  
 https://github.com/thomasbratt/collectionextensions
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomasbratt/collectionextensions/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
